@@ -1,0 +1,27 @@
+@import 'bootstrap/scss/bootstrap';
+
+.site-header {
+  background-color: #FF4500;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.site-header .navbar {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.brand-logo {
+  height: 44px;
+  width: auto;
+  display: block;
+}
+
+.site-footer {
+  background-color: #FF4500;
+}
+
+.table thead th {
+  vertical-align: middle;
+  text-align: center;
+}
